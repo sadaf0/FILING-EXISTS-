@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filing_exist_practice", "filing_exist_practice\filing_exist_practice.csproj", "{6B45B31A-9660-42B1-9BF9-3471332118D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B45B31A-9660-42B1-9BF9-3471332118D9}.Debug|x86.ActiveCfg = Debug|x86
+		{6B45B31A-9660-42B1-9BF9-3471332118D9}.Debug|x86.Build.0 = Debug|x86
+		{6B45B31A-9660-42B1-9BF9-3471332118D9}.Release|x86.ActiveCfg = Release|x86
+		{6B45B31A-9660-42B1-9BF9-3471332118D9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

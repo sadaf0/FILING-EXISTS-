@@ -1,0 +1,9 @@
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\bin\Debug\filing_exist_practice.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\bin\Debug\filing_exist_practice.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.Form1.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.Properties.Resources.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.csproj.GenerateResource.Cache
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_exist_practice\filing_exist_practice\obj\x86\Debug\filing_exist_practice.pdb
